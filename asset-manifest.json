@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/electreact/static/css/main.82bfb893.chunk.css",
+    "main.js": "/electreact/static/js/main.c1790d95.chunk.js",
+    "main.js.map": "/electreact/static/js/main.c1790d95.chunk.js.map",
+    "runtime-main.js": "/electreact/static/js/runtime-main.68392843.js",
+    "runtime-main.js.map": "/electreact/static/js/runtime-main.68392843.js.map",
+    "static/css/2.7d05afcc.chunk.css": "/electreact/static/css/2.7d05afcc.chunk.css",
+    "static/js/2.67acd859.chunk.js": "/electreact/static/js/2.67acd859.chunk.js",
+    "static/js/2.67acd859.chunk.js.map": "/electreact/static/js/2.67acd859.chunk.js.map",
+    "static/js/3.bca95b84.chunk.js": "/electreact/static/js/3.bca95b84.chunk.js",
+    "static/js/3.bca95b84.chunk.js.map": "/electreact/static/js/3.bca95b84.chunk.js.map",
+    "index.html": "/electreact/index.html",
+    "static/css/2.7d05afcc.chunk.css.map": "/electreact/static/css/2.7d05afcc.chunk.css.map",
+    "static/css/main.82bfb893.chunk.css.map": "/electreact/static/css/main.82bfb893.chunk.css.map",
+    "static/js/2.67acd859.chunk.js.LICENSE.txt": "/electreact/static/js/2.67acd859.chunk.js.LICENSE.txt",
+    "static/media/Batch.css": "/electreact/static/media/nav.130d7d60.png",
+    "static/media/mdb.css": "/electreact/static/media/arrow_right.0897f985.svg",
+    "static/media/all.min.css": "/electreact/static/media/fa-solid-900.f4f93856.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68392843.js",
+    "static/css/2.7d05afcc.chunk.css",
+    "static/js/2.67acd859.chunk.js",
+    "static/css/main.82bfb893.chunk.css",
+    "static/js/main.c1790d95.chunk.js"
+  ]
+}
